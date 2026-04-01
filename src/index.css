@@ -1,1 +1,7 @@
 @import "tailwindcss";
+@layer base{
+    button{
+        @apply border border-black rounded-xl px-5
+       
+    }
+}
